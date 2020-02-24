@@ -1,0 +1,17 @@
+{
+  "name": "tasks-app",
+  "version": "1.0.0",
+  "description": "Simple task management CRUD REST app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Vi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.8"
+  }
+}
